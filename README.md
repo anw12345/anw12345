@@ -36,7 +36,7 @@
 ### 💡 Expertise
 
 #### ☁ Cloud & Virtualization  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS](https://ca.pinterest.com/pin/free-download-amazon-web-services-logo--812336851547773982/)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
