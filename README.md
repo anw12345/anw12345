@@ -53,6 +53,15 @@
                                                                                                                  
 ⭐ **Let's build, automate, and deploy!** 🚀  
 
+ <div align="center">
+  <img src="https://profile-counter.glitch.me/anw12345/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/anw12345/anw12345/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
