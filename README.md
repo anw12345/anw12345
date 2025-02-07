@@ -1,14 +1,11 @@
-# anwesa
-Hello World This is my Profile
+
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
-<h1 align="center">Hi 👋, I'm Anwesa Acharya from India🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Anwesa Acharya from India</h1>
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
-<h1 align="center">Hi 👋, I'm Anwesa Acharya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anw12345&label=Profile%20views&color=0e75b6&style=flat" alt="anw12345" /> </p>
 
@@ -26,7 +23,7 @@ Hello World This is my Profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anwesaacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anwesaacharya/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anwesaacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anwesaacharya/" height="30" width="40" /></a>
 <a href="https://instagram.com/anwesa_acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anwesa_acharya" height="30" width="40" /></a>
 </p>
 
